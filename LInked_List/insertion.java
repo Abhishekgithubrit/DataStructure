@@ -1,3 +1,0 @@
-pulbic class LinkedLIst{
-    
-}
